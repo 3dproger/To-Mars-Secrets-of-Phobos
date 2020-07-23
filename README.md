@@ -9,6 +9,12 @@ Release date: 22 May 2015
 
 Development Tools / Libraries: Game Maker 8 Pro, Extreme Physics, FMOD, Inno Setup
 
+Copyright (c) 2014-2015, 2019 Alexander 'Axel_k' Kirsanov
+
+![image](screenshot104.png?raw=true)
+![image](screenshot106.png?raw=true)
+![image](screenshot100.png?raw=true)
+
 # Links
 * <b>Download for Windows:</b> https://github.com/3dproger/To-Mars-Secrets-of-Phobos/releases
 * Video: https://www.youtube.com/watch?v=Kv_hspf8SK0
@@ -26,5 +32,5 @@ More information:
 * R - Reload 
 * 1-9 or Mouse Wheel - Change Weapon
 * F1 - Help
-* F9 - Take a screenshot (saved in the game folder)
+* F9 - Take a screenshot (saves in the game folder)
 * ESC - Exit from Help / Pause 
