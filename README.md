@@ -9,8 +9,7 @@ Release date: 22 May 2015
 
 Development Tools / Libraries: Game Maker 8 Pro, Extreme Physics, FMOD, Inno Setup
 
-Copyright (c) 2014-2015, 2019 Alexander 'Axel_k' Kirsanov
-
+# Screenshots
 ![image](screenshot104.png?raw=true)
 ![image](screenshot106.png?raw=true)
 ![image](screenshot100.png?raw=true)
@@ -34,3 +33,5 @@ More information:
 * F1 - Help
 * F9 - Take a screenshot (saves in the game folder)
 * ESC - Exit from Help / Pause 
+
+<b>Copyright (c) 2015, 2019-2020 Alexander 'Axel_k' Kirsanov</b>
