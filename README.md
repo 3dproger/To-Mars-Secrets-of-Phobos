@@ -15,9 +15,9 @@ Development Tools / Libraries: Game Maker 8 Pro, Extreme Physics, FMOD, Inno Set
 ![image](screenshot100.png?raw=true)
 
 # Links
-* <b>Download for Windows:</b> https://github.com/3dproger/To-Mars-Secrets-of-Phobos/releases/download/1.4.0/ToMarsSoP-1.4.0-setup-windows-x86_32.exe
 * Video: https://www.youtube.com/watch?v=Kv_hspf8SK0
 * ToMars (Prequel): https://gamemaker.ucoz.com/load/3-1-0-329
+* <b><a href="https://github.com/3dproger/To-Mars-Secrets-of-Phobos/releases/download/1.4.0/ToMarsSoP-1.4.0-setup-windows-x86_32.exe">Download for Windows</a></b>
 
 More information:
 * https://gamemaker.ucoz.com/load/3-1-0-393
